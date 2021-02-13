@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+  
+}
+/*header*/
+.popup{
+  border: 1px solid blue;
+  width: 100%;
+  height: 38px;
+}
+.top_menu{
+  border: 1px solid red;
+  width: 1782px;
+  height: 98px;
+}
+/*main*/
+.side_btn{
+  border: 1px solid yellow;
+  
+}
+.video{
+  border: 1px solid red;
+  width: 1782px;
+  height: 832px;
+}
+.news{
+  border: 1px solid blue;
+  width: 1782px;
+  height: 1104px;
+}
+.sch{
+  border: 1px solid red;
+  width: 100%;
+  height: 281px;
+}
+.campus_map{
+  border: 1px solid blue;
+  width: 100%;
+  height: 1150px;
+}
+.perf{
+  border: 1px solid red;
+  width: 100%;
+  height: 941px;
+}
+/*footer*/
+.bottom_menu{
+  border: 1px solid blue;
+  width: 100%;
+  height: 348px;
+}
+.footer{
+  border: 1px solid black;
+  width: 100%;
+  height: 74px;
+}
